@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/butlers/static/css/main.01d42a84.css",
+    "main.js": "/butlers/static/js/main.78d03c5e.js",
+    "static/media/bg.png": "/butlers/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/butlers/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/butlers/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/butlers/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/butlers/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/butlers/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery02.png": "/butlers/static/media/gallery02.97ab4494c9881849f834.png",
+    "static/media/gallery01.png": "/butlers/static/media/gallery01.a2bc25eb56c3223bf970.png",
+    "static/media/gallery03.png": "/butlers/static/media/gallery03.177576cd5d191997dfd7.png",
+    "static/media/gallery04.png": "/butlers/static/media/gallery04.2883c81fdbfe46b45a26.png",
+    "static/media/knife.png": "/butlers/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/butlers/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/welcome1.png": "/butlers/static/media/welcome1.2e89d5b1dab6fd1f57ca.png",
+    "static/media/logo.png": "/butlers/static/media/logo.77a81f7fe1179e8fa4d0.png",
+    "static/media/B.png": "/butlers/static/media/B.8fc21b049ca1d5bb743d.png",
+    "static/media/G.png": "/butlers/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/award02.png": "/butlers/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/butlers/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/butlers/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/butlers/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/butlers/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "static/media/spoon.svg": "/butlers/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "index.html": "/butlers/index.html",
+    "main.01d42a84.css.map": "/butlers/static/css/main.01d42a84.css.map",
+    "main.78d03c5e.js.map": "/butlers/static/js/main.78d03c5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01d42a84.css",
+    "static/js/main.78d03c5e.js"
+  ]
+}

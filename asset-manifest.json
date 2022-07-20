@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/butlers/static/css/main.204e9938.css",
-    "main.js": "/butlers/static/js/main.30d0551b.js",
+    "main.css": "/butlers/static/css/main.44fd43aa.css",
+    "main.js": "/butlers/static/js/main.9e9aebf8.js",
     "static/media/bg.png": "/butlers/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/butlers/static/media/welcome.d724eb984456d9c97470.png",
     "static/media/findus.png": "/butlers/static/media/findus.585c393ccd3671513743.png",
@@ -25,11 +25,11 @@
     "static/media/sign.png": "/butlers/static/media/sign.9bf0bd90ad4caa17991f.png",
     "static/media/spoon.svg": "/butlers/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
     "index.html": "/butlers/index.html",
-    "main.204e9938.css.map": "/butlers/static/css/main.204e9938.css.map",
-    "main.30d0551b.js.map": "/butlers/static/js/main.30d0551b.js.map"
+    "main.44fd43aa.css.map": "/butlers/static/css/main.44fd43aa.css.map",
+    "main.9e9aebf8.js.map": "/butlers/static/js/main.9e9aebf8.js.map"
   },
   "entrypoints": [
-    "static/css/main.204e9938.css",
-    "static/js/main.30d0551b.js"
+    "static/css/main.44fd43aa.css",
+    "static/js/main.9e9aebf8.js"
   ]
 }
